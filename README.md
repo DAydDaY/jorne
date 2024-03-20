@@ -1,5 +1,7 @@
 # Jorne keyboard
 
+![jorne-tenting](https://github.com/joric/jorne/assets/852547/91871075-f9e7-482e-ad6f-bfb3705063dc)
+
 Please read project wiki for details: https://github.com/joric/jorne/wiki
 
 ## Disclaimer
